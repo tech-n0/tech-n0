@@ -1,16 +1,29 @@
-### Hi there 👋
+[![MasterHead](https://camo.githubusercontent.com/a99c01b32f7f9257ff5830e997aa1e4251013f86ded3fbbdf692ffe9de11da65/68747470733a2f2f6769746875622e626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30362f4769744875622d4275672d426f756e74795f666f722d736f6369616c2e706e673f726573697a653d31383030253243363330)](https://tech-n0.github.io)
+<h1 align="center">Hi 👋, I'm TechNo</h1>
+<h3 align="center">I am a Dev and CyberSecurity Student.</h3>
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="gif" width="300" align="right">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tech-n0&label=Profile%20views&color=0e75b6&style=flat" alt="tech-n0" /> </p>
 
-<!--
-**tech-n0/tech-n0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://twitter.com/t3ch_no" target="blank"><img src="https://img.shields.io/twitter/follow/t3ch_no?logo=twitter&style=for-the-badge" alt="t3ch_no" /></a> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **FullStack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [tech-n0.github.io](tech-n0.github.io)
+
+- 📝 I regularly write articles on [https://medium.com/@t3ch_no](https://medium.com/@t3ch_no)
+
+- 💬 Ask me about **CyberSecurity and Music**
+
+- ⚡ Fun fact **Gamer**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/t3ch_no" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="t3ch_no" height="30" width="40" /></a>
+<a href="https://medium.com/@t3ch_no" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@t3ch_no" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vmware.org"  target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/cdaca10be825944366eaf1f55c6ff15359562eb33f174f801c4b7206737011d3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3531322f6f6c642d766d776172652d6c6f676f2e706e67" alt="vmware" width="40" height="40"> </a> <a href="https://vscode.com" target="_blank"><img src="https://camo.githubusercontent.com/57f528d363944ba0c4151826973ce5dda859c2f9e9ada8798e22c677c180ead4/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f3234302f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67" alt="vscode" height="40" width"40"> </a></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tech-n0&" alt="tech-n0" /></p>
+
