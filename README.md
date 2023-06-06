@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/t3ch_no" target="blank"><img src="https://img.shields.io/twitter/follow/t3ch_no?logo=twitter&style=for-the-badge" alt="t3ch_no" /></a> </p>
 
-- 🌱 I’m currently learning **FullStack**
+- 🌱 I’m currently learning **Development**
 
 - 👨‍💻 All of my projects are available at [tech-n0.github.io](tech-n0.github.io)
 
