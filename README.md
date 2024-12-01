@@ -1,5 +1,5 @@
 [![MasterHead](https://camo.githubusercontent.com/a99c01b32f7f9257ff5830e997aa1e4251013f86ded3fbbdf692ffe9de11da65/68747470733a2f2f6769746875622e626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30362f4769744875622d4275672d426f756e74795f666f722d736f6369616c2e706e673f726573697a653d31383030253243363330)](https://tech-n0.github.io)
-<h1 align="center">Hi 👋, I'm TƎchNo</h1>
+<h1 align="center">Hi 👋, I'm Hemanthraju</h1>
 <h3 align="center">I am a CyberSecurity Student.</h3>
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="gif" width="300" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tech-n0&label=Profile%20views&color=0e75b6&style=flat" alt="tech-n0" /> </p>
