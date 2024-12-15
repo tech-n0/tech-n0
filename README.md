@@ -10,7 +10,7 @@
 
 - 👨‍💻 Check out my portfolio site at [tech-n0.github.io](tech-n0.github.io)
 
-- 📝 I regularly write blog on [medium](https://medium.com/@t3ch_no)
+- 📝 I regularly write blog on [medium](https://medium.com/@tech-n0)
 
 - 💬 Ask me about **Cybersecurity and Music**
 
