@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hemanthrajub/" target="_blank"><img align="center" src="https://as2.ftcdn.net/v2/jpg/03/20/88/35/1000_F_320883562_xR7zts8TXa7VZoo4HZoB7rP1hOFfktMY.jpg" alt="t3ch_no" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hemanthrajub/" target="_blank"><img align="center" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" alt="t3ch_no" height="30" width="40" /></a>
 <a href="https://medium.com/@tech-n0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@t3ch_no" height="30" width="40" /></a>
 </p>
 
