@@ -4,7 +4,7 @@
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="gif" width="300" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tech-n0&label=Profile%20views&color=0e75b6&style=flat" alt="tech-n0" /> </p>
 
-<p align="left"> <a href="https://medium.com/@tech-n0" target="blank"><img src="https://img.shields.io/twitter/follow/t3ch_no?logo=twitter&style=for-the-badge" alt="t3ch_no" /></a> </p>
+<p align="left"> <a href="https://medium.com/@tech-n0" target="_blank"><img src="https://img.shields.io/twitter/follow/t3ch_no?logo=twitter&style=for-the-badge" alt="t3ch_no" /></a> </p>
 
 - 🌱 I’m looking for Job role in **Security Operations Center Analyst**
 
@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hemanthrajub/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="t3ch_no" height="30" width="40" /></a>
-<a href="https://medium.com/@t3ch_no" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@t3ch_no" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hemanthrajub/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="t3ch_no" height="30" width="40" /></a>
+<a href="https://medium.com/@t3ch_no" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@t3ch_no" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
