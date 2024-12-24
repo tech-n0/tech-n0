@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://medium.com/@tech-n0" target="blank"><img src="https://img.shields.io/twitter/follow/t3ch_no?logo=twitter&style=for-the-badge" alt="t3ch_no" /></a> </p>
 
-- 🌱 I’m looking for **Security Operations Center**
+- 🌱 I’m looking for Job role in **Security Operations Center Analyst**
 
 - 👨‍💻 Check out my portfolio site at [tech-n0.github.io](https://tech-n0.github.io)
 
