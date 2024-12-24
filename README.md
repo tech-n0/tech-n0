@@ -4,7 +4,7 @@
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="gif" width="300" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tech-n0&label=Profile%20views&color=0e75b6&style=flat" alt="tech-n0" /> </p>
 
-<p align="left"> <a href="https://twitter.com/t3ch_no" target="blank"><img src="https://img.shields.io/twitter/follow/t3ch_no?logo=twitter&style=for-the-badge" alt="t3ch_no" /></a> </p>
+<p align="left"> <a href="https://medium.com/@tech-n0" target="blank"><img src="https://img.shields.io/twitter/follow/t3ch_no?logo=twitter&style=for-the-badge" alt="t3ch_no" /></a> </p>
 
 - 🌱 I’m looking for **Security Operations Center**
 
