@@ -8,7 +8,7 @@
 
 - 🌱 I’m looking for **Security Operations Center**
 
-- 👨‍💻 Check out my portfolio site at [tech-n0.github.io](tech-n0.github.io)
+- 👨‍💻 Check out my portfolio site at [tech-n0.github.io](https://tech-n0.github.io)
 
 - 📝 I regularly write blog on [medium](https://medium.com/@tech-n0)
 
