@@ -24,22 +24,22 @@
 
 <h3 align="left">Skills:</h3>
 
-<h4 align="left">Scripting: 
+<h4 align="left">Scripting: &nbsp;&nbsp;
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="vertical-align: middle;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="vertical-align: middle;"/>
 </h4>
 
-<h4 align="left">OS: 
+<h4 align="left">OS: &nbsp;&nbsp;
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </h4>
 
-<h4 align="left">SOC:
+<h4 align="left">SOC:&nbsp;&nbsp;
     <img src="https://bulutistan.com/blog/wp-content/uploads/2023/09/elk-stack-nedir.jpeg" alt="elk" width="40" height="40" style="vertical-align: middle;"/>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMY4TDCWSeYc7qDbKu-VvxBYsMXwY3MKfCw&s" alt="snort" width="40" height="40" style="vertical-align: middle;"/>
 </h4>
 
-<h4 align="left">Misc: 
+<h4 align="left">Misc: &nbsp;&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
