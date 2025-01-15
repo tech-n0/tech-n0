@@ -37,6 +37,8 @@
 <h4 align="left">SOC:&nbsp;&nbsp;
     <img src="https://bulutistan.com/blog/wp-content/uploads/2023/09/elk-stack-nedir.jpeg" alt="elk" width="40" height="40" style="vertical-align: middle;"/>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMY4TDCWSeYc7qDbKu-VvxBYsMXwY3MKfCw&s" alt="snort" width="40" height="40" style="vertical-align: middle;"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfTZ2Pry9zZMRkPhlX390F5oKio0m-dRjM0w&s" alt="pfsense" width="40" height="40" style="vertical-align: middle;"/>
+    <img src="https://cdn.invicti.com/statics/img/techdoc/company-logos/splunk-logo.png" alt="splunk" width="40" height="40" style="vertical-align: middle;"/>
 </h4>
 
 <h4 align="left">Misc: &nbsp;&nbsp;
