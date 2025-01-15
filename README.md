@@ -30,7 +30,7 @@
 </h4>
 
 <h4 align="left">OS: &nbsp;&nbsp;
-        <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-windows-10-window-logo-RW19Kuy?scl=1" alt="azure" width="40" height="40"/>
+        <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Windows-Update-RW1cJTH?scl=1&fmt=png-alpha" alt="azure" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </h4>
 
